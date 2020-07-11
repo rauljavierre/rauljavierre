@@ -7,4 +7,4 @@ Actualmente trabajando en proyectos personales de distintas temáticas para ampl
 ## Puedes encontrar más sobre mí en
 * 🐦 Twitter: https://twitter.com/rauljavierre
 * 📩 Gmail: javierreraul@gmail.com
-* 🌍 Portfolio: https://javierreraul.github.io/
+* 🌍 Portfolio: https://javierreraul.github.io
