@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy Raúl
+# ¡Hola! Soy Raúl 👋🏽 👨🏽‍💻
+![Twitter Badge](https://img.shields.io/twitter/follow/rauljavierre?color=Blue&label=%40rauljavierre&logo=Twitter&style=flat) 
+![Web Badge](https://img.shields.io/website?label=Web%20personal&logo=&style=flat&up_color=blue&url=https%3A%2F%2Fjavierreraul.github.io%2F)
+[![Linkedin Badge](https://img.shields.io/badge/-Raúl_Javierre-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ra%C3%BAl-javierre-019a8a1ab/)](https://www.linkedin.com/in/ra%C3%BAl-javierre-019a8a1ab/)
 
-Estudiante de Ingeniería Informática en la Universidad de Zaragoza especializado en Ingeniería del Software. Colaboro con el grupo de I+D en Computación Distribuida (DisCo) de esta misma Universidad. Experiencia en Java, Python, C++, C, JavaScript (NodeJS), Docker, bases de datos relacionales, MongoDB, distribuciones linux, TDD, CI...
+Estudiante de **Ingeniería Informática** en la Universidad de Zaragoza especializado en Ingeniería del Software. 
 
-Actualmente trabajando en proyectos personales de distintas temáticas para ampliar conocimientos.
+Colaboro con el **grupo de I+D en Computación Distribuida (DisCo)** de esta misma Universidad. 
 
-## Puedes encontrar más sobre mí en
-* 🐦 Twitter: https://twitter.com/rauljavierre
-* 📩 Gmail: javierreraul@gmail.com
-* 🌍 Portfolio: https://javierreraul.github.io
+Experiencia en *Java, Python, C++, C, JavaScript (NodeJS), Docker, bases de datos relacionales, MongoDB, distribuciones linux, extreme programming, CI...*
