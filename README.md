@@ -1,7 +1,5 @@
 # 👨🏽‍💻 ¡Hola! Soy Raúl <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> 
 
-[![HitCount](http://hits.dwyl.com/javierreraul/javierreraul.svg)](https://github.com/javierreraul/javierreraul)
-
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 Estudiante de **Ingeniería Informática** en la Universidad de Zaragoza. Especializado en Ingeniería del Software. 
