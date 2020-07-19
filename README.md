@@ -10,15 +10,15 @@ Experiencia en *Java, Python, C++, C, JavaScript (NodeJS), Docker, bases de dato
 
 </br>
 
-**Mis soluciones en Codewars**
+**Codewars**
 </br></br>
-<a href="https://www.codewars.com/users/javierreraul"> <img src="https://www.codewars.com/users/javierreraul/badges/small"></a>
+<a href="https://www.codewars.com/users/javierreraul"> <img src="https://www.codewars.com/users/javierreraul/badges/large"></a>
 </br></br></br>
 
 **¡No dudes en contactar conmigo si lo necesitas!**
 </br></br>
-<a href="mailto:javierreraul@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="48px" alt="gmail"></a> &nbsp; &nbsp;
-<a href="https://twitter.com/rauljavierre"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter"></a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/javierreraul"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram"></a> &nbsp; &nbsp;
-<a href="https://javierreraul.github.io/"><img src="https://img.icons8.com/fluent/48/000000/globe.png" alt="personal site"></a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/raul-javierre/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="personal site"></a>
+<a href="mailto:javierreraul@gmail.com"><img src="https://img.icons8.com/color/70/000000/gmail.png" alt="gmail"></a> &nbsp; &nbsp;
+<a href="https://twitter.com/rauljavierre"><img src="https://img.icons8.com/fluent/70/000000/twitter.png" alt="twitter"></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/javierreraul"><img src="https://img.icons8.com/fluent/70/000000/instagram-new.png" alt="instagram"></a> &nbsp; &nbsp;
+<a href="https://javierreraul.github.io/"><img src="https://img.icons8.com/fluent/70/000000/globe.png" alt="personal site"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/raul-javierre/"><img src="https://img.icons8.com/color/70/000000/linkedin.png" alt="personal site"></a>
