@@ -1,10 +1,13 @@
 # 👨🏽‍💻 ¡Hola! Soy Raúl <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> 
+<img align='right' src='https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fjavierreraul%2Fjavierreraul' width='200' alt="Hits">
+</br>
+</br>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 Estudiante de **Ingeniería Informática** en la Universidad de Zaragoza. Especializado en Ingeniería del Software. 
 
-Colaboro con el **grupo de I+D en Computación Distribuida (DisCo)** de esta misma Universidad. 
+Colaboro con el <a href="https://i3a.unizar.es/es/grupos-de-investigacion/disco">**grupo de I+D en Computación Distribuida (DisCo)**</a> de esta misma Universidad. 
 
 Experiencia en *Java, Python, C++, C, JavaScript (NodeJS), Docker, bases de datos relacionales, MongoDB, distribuciones linux, extreme programming, CI...*
 
