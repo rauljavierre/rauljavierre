@@ -8,6 +8,12 @@ Colaboro con el **grupo de I+D en Computación Distribuida (DisCo)** de esta mis
 
 Experiencia en *Java, Python, C++, C, JavaScript (NodeJS), Docker, bases de datos relacionales, MongoDB, distribuciones linux, extreme programming, CI...*
 
+</br>
+
+**Mis soluciones en Codewars**
+</br></br>
+<a href="https://www.codewars.com/users/javierreraul"> <img src="https://www.codewars.com/users/javierreraul/badges/small"></a>
+</br></br></br>
 
 **¡No dudes en contactar conmigo si lo necesitas!**
 </br></br>
