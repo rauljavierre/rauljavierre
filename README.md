@@ -10,11 +10,9 @@ Experiencia en *Java, Python, C++, C, JavaScript (NodeJS), Docker, bases de dato
 
 
 **¡No dudes en contactar conmigo si lo necesitas!**
-</br>
-</br>
-<a href="mailto:javierreraul@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="gmail"></a>
-&nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/ra%C3%BAl-javierre-019a8a1ab/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> 
-&nbsp; &nbsp;
-<a href="https://twitter.com/rauljavierre"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-<a href="https://javierreraul.github.io/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+</br></br>
+<a href="mailto:javierreraul@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="48px" alt="gmail"></a> &nbsp; &nbsp;
+<a href="https://twitter.com/rauljavierre"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram"></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/javierreraul/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter"></a> &nbsp; &nbsp;
+<a href="https://javierreraul.github.io/"><img src="https://img.icons8.com/fluent/48/000000/globe.png" alt="personal site"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/raúl-javierre-019a8a1ab/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="personal site"></a>
