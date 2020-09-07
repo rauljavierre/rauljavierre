@@ -20,6 +20,6 @@ Experiencia en *Java, Python, C++, C, JavaScript (NodeJS), Docker, bases de dato
 </br></br>
 <a href="mailto:javierreraul@gmail.com"><img src="https://img.icons8.com/color/70/000000/gmail.png" alt="gmail"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/rauljavierre"><img src="https://img.icons8.com/fluent/70/000000/twitter.png" alt="twitter"></a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/javierreraul"><img src="https://img.icons8.com/fluent/70/000000/instagram-new.png" alt="instagram"></a> &nbsp; &nbsp;
-<a href="https://javierreraul.github.io/"><img src="https://img.icons8.com/fluent/70/000000/globe.png" alt="personal site"></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/rauljavierre"><img src="https://img.icons8.com/fluent/70/000000/instagram-new.png" alt="instagram"></a> &nbsp; &nbsp;
+<a href="https://rauljavierre.github.io/"><img src="https://img.icons8.com/fluent/70/000000/globe.png" alt="personal site"></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/raul-javierre/"><img src="https://img.icons8.com/color/70/000000/linkedin.png" alt="personal site"></a>
