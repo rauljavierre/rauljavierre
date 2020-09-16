@@ -1,4 +1,4 @@
-# 👨🏽‍💻 ¡Hola! Soy Raúl <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> ![](https://komarev.com/ghpvc/?username=javierreraul&color=blue)
+# 👨🏽‍💻 ¡Hola! Soy Raúl <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px"> ![](https://komarev.com/ghpvc/?username=javierreraul&color=blue)
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
