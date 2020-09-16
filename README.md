@@ -9,7 +9,7 @@ Colaboro con el <a href="https://i3a.unizar.es/es/grupos-de-investigacion/disco"
 
 Experiencia en *Java, Python, C++, C, JavaScript (NodeJS), Docker, Machine Learning, bases de datos relacionales, MongoDB, distribuciones linux, extreme programming, CI...*
 
-</br></br></br>
+</br>
 
 **¡No dudes en contactar conmigo si lo necesitas!**
 </br></br>
