@@ -5,7 +5,7 @@
 
 Estudiante de **Ingeniería Informática** en la Universidad de Zaragoza. Especializado en Ingeniería del Software. 
 
-Colaboro con el <a href="https://i3a.unizar.es/es/grupos-de-investigacion/disco">**grupo de I+D en Computación Distribuida (DisCo)**</a> de esta misma Universidad. 
+Colaboro con el <a href="http://webdiis.unizar.es/DISCO/">**grupo de I+D en Computación Distribuida (DisCo)**</a> de esta misma Universidad. 
 
 Experiencia en *Java, Python, C++, C, JavaScript (NodeJS), Docker, Machine Learning, bases de datos relacionales, MongoDB, distribuciones linux, extreme programming, CI...*
 
