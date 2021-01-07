@@ -7,11 +7,6 @@ Estudiante de **Ingeniería Informática** en la Universidad de Zaragoza. Especi
 
 Colaboro con el <a href="http://webdiis.unizar.es/DISCO/">**grupo de I+D en Computación Distribuida (DisCo)**</a> de esta misma Universidad. 
 
-Experiencia en *Java, Python, C++, C, JavaScript (NodeJS), Docker, Machine Learning, bases de datos relacionales, MongoDB, distribuciones linux, extreme programming, CI...*
-
-</br>
-
-**¡No dudes en contactar conmigo si lo necesitas!**
 </br></br>
 <a href="mailto:javierreraul@gmail.com"><img src="https://img.icons8.com/color/70/000000/gmail.png" alt="gmail"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/rauljavierre"><img src="https://img.icons8.com/fluent/70/000000/twitter.png" alt="twitter"></a> &nbsp; &nbsp;
