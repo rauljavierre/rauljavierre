@@ -1,24 +1,20 @@
 # 👨🏽‍💻 ¡Hola! Soy Raúl Javierre
 
-<p>
-    <strong>Graduado en Ingeniería Informática con mención en Ingeniería del Software por la Universidad de Zaragoza. 10 matrículas de honor reconocidas.</strong>
-</p>
-<p>
-    <strong>He trabajado durante más de un año en una línea de investigación de la Universidad de Zaragoza</strong>. Ésta estaba vinculada con la mejora de la resiliencia de redes eléctricas inteligentes a través de técnicas de aprendizaje automático. En concreto, <strong>he desarrollado un framework</strong> en Python para ayudar a trabajar a futuros desarrolladores y desarrolladoras en este área. El framework fue <strong>presentado como mi TFG (calificado con Matrícula de Honor)</strong> y, gracias a él y a las contribuciones del resto del equipo de investigación, se consiguieron unos <strong>resultados que fueron revisados y aceptados por el comité del EDCC2021</strong>.
-</p>
-<p>
-    Fuera de la Universidad he desarrollado varias aplicaciones web, como <strong><a href="http://airezico.tk/entrar">AireZico</a></strong>; programas para tratar de <strong>predecir valores de criptomonedas</strong> en base a distintos indicadores...
-</p>
-<p>
-    Destacaría mi <strong>capacidad de liderazgo y de gestión</strong>. Prueba de ello es que he sido <strong>entrenador de fútbol</strong> base durante 2 años. También he sido <strong>profesor particular</strong> de Informática, Matemáticas, Física, Química e Inglés.
-</p>
-<p>
-    Adoro la Fórmula 1, cantar, tocar la guitarra (autodidacta), pasar los domingos por la montaña, hacer rutas en bicicleta, ir a conciertos...
-</p>
-<p style="margin-bottom: 5vh">
-    Durante el curso 2021-2022 voy a estudiar el <strong>Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas de la Universidad de Zaragoza</strong>. <strong>Me gustaría devolverle al mundo lo que me ha enseñado.</strong>
-</p>
+Graduado en Ingeniería Informática por la Universidad de Zaragoza. 10 matrículas de honor reconocidas.
 
+Interesado en DDD, TDD, SOLID, CI/CD y microservicios. Nivel avanzado en Java, Spring Boot, Spring Web, MERN, Python, Docker y GitHub.
+
+He trabajado durante más de un año en una línea de investigación de la Universidad de Zaragoza. En concreto, desarrollé un framework software para ayudar a trabajar a mi equipo de investigación y a futuras desarrolladoras y desarrolladores a detectar fraudes en las smart grid. El framework fue presentado como mi TFG (calificado con Matrícula de Honor) y, gracias a éste y a la gran ayuda del resto del equipo, se consiguieron unos buenos resultados que fueron revisados y aceptados por el comité del EDCC2021.
+
+Soy el desarrollador de AireZico (http://airezico.tk), una plataforma que permite consultar el estado de la calidad del aire en tiempo real en Zaragoza. También incluye un bot de Twitter (https://twitter.com/AireZico).
+
+Tengo una gran capacidad de liderazgo y de gestión, puesto que he entrenado varios equipos de fútbol base e impartido clases particulares de Informática, Matemáticas e Inglés.
+
+Adoro la Fórmula 1, cantar y tocar la guitarra (autodidacta), conducir, pasar los domingos por la montaña, hacer rutas en bicicleta, disfrutar de música en directo...
+
+Durante el curso 2021-2022 voy a estudiar el Máster de Docencia de la Universidad de Zaragoza, pues siempre me ha gustado compartir conocimiento.
+
+</br>
 
 <a href="https://rauljavierre.github.io/"><img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Frauljavierre.github.io%2F" alt="Personal site"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/rauljavierre"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp; &nbsp;
